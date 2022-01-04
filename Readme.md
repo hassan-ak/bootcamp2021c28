@@ -15,6 +15,8 @@
 
 ### Sections
 
+- [Hardhat helloworld](./step00_hardhat_helloworld)
+
 ### Class 28 Videos
 
 - [English YouTube](https://www.youtube.com/watch?v=24Nl4fVGH6g&ab_channel=CertifiedUnicornDeveloper)
