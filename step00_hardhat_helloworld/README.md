@@ -15,15 +15,6 @@
 6. Install required dependancies using `npm install --save-dev "hardhat@^2.8.0" "@nomiclabs/hardhat-waffle@^2.0.0" "ethereum-waffle@^3.0.0" "chai@^4.2.0" "@nomiclabs/hardhat-ethers@^2.0.0" "ethers@^5.0.0"`
 7. Complie the app using `npx hardhat compile` it will compile the solidity code and genrate its byte code in abi.
 8. Test the app using `npx hardhat test`
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+9. Deploy the app using `npx hardhat run scripts/sample-script.js` this will deploy the app to temp local blockchain which can't be accessed just deployment success message will be recieved.
+10. Use `npx hardhat node` to create a local blockchain and it will list multiple coounts
+11. Use `npx hardhat run scripts/sample-script.js --network localhost` to deploy on the blockchain created by above step.
