@@ -18,3 +18,11 @@
 9. Deploy the app using `npx hardhat run scripts/sample-script.js` this will deploy the app to temp local blockchain which can't be accessed just deployment success message will be recieved.
 10. Use `npx hardhat node` to create a local blockchain and it will list multiple coounts
 11. Use `npx hardhat run scripts/sample-script.js --network localhost` to deploy on the blockchain created by above step.
+12. Update "scripts/sample-scripts.js" to test the app
+
+    ```js
+    console.log('Get Data = ', await greeter.greet());
+    const txt = await greeter.setGreeting('Hello Hassan');
+    await txt.wait();
+    console.log('After = ', await greeter.greet());
+    ```
