@@ -4,6 +4,11 @@
 
 ### Class Notes
 
+- What is blockchain?
+  - Blockchain is a decentralized distributed immuteable ledger, only have the ability to read and write. Information on the blockchain is stored in form of blocks and each block is combination of transaction. Each block is assosiated to a hash code. One of the implementations of blockchain is bitcoin. Bitcoin is alternative to money and is not programmeable. Apps can be developed and deployed on the blockchain and if one plans to develop a currency on it, there is need of complete devlopment and then a community to run it. When one makes a transaction it goes to every available node and verified by them and added to transaction pool. After certain time this pool is accessed by nodes and a puzzle is solved to match the hash and then it is stored in the DB.
+- What is etherium?
+  - It is a blockchain with an advantage where one can create its own currency. As etherium 2 is not completelty available right now we will be working with ether 1.
+
 ### Reading Material
 
 ### Sections
