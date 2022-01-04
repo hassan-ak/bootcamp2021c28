@@ -12,7 +12,9 @@
 3. Initiate a npm package using `npm init --yes`
 4. Install hardhat using `npm install --save-dev hardhat`
 5. Create a simple hardhat project using `npx hardhat`
-   This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+6. Install required dependancies using `npm install --save-dev "hardhat@^2.8.0" "@nomiclabs/hardhat-waffle@^2.0.0" "ethereum-waffle@^3.0.0" "chai@^4.2.0" "@nomiclabs/hardhat-ethers@^2.0.0" "ethers@^5.0.0"`
+7. Complie the app using `npx hardhat compile` it will compile the solidity code and genrate its byte code in abi.
+8. Test the app using `npx hardhat test`
 
 Try running some of the following tasks:
 
