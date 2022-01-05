@@ -1,4 +1,4 @@
-# Hardhat HelloWorld
+# Step00 - Hardhat HelloWorld
 
 ## Reading Material
 
