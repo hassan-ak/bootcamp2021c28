@@ -16,6 +16,7 @@
 ### Sections
 
 - [Hardhat helloworld](./step00_hardhat_helloworld)
+- [Hardhat typescript helloworld](./step01_hardhat_typescript_helloworld)
 
 ### Class 28 Videos
 
