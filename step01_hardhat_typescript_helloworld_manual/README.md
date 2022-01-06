@@ -2,8 +2,9 @@
 
 ## Reading Material
 
-- [Etherem Developmentdocumentation](https://ethereum.org/en/developers/docs/)
-- [Hardhat documentation](https://hardhat.org/getting-started/)
+- [Template Project](https://github.com/paulrberg/solidity-template)
+- [TypeScript Support](https://hardhat.org/guides/typescript.html)
+- [Writing tests and scripts in TypeScript](https://hardhat.org/guides/typescript.html#writing-tests-and-scripts-in-typescript)
 
 ## Steps to code
 
