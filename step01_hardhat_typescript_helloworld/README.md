@@ -2,6 +2,10 @@
 
 ## Reading Material
 
+- [Template Project](https://github.com/paulrberg/solidity-template)
+- [TypeScript Support](https://hardhat.org/guides/typescript.html)
+- [Writing tests and scripts in TypeScript](https://hardhat.org/guides/typescript.html#writing-tests-and-scripts-in-typescript)
+
 ## Steps to code (Method 01)
 
 1. Create new directory using `mkdir step01_hardhat_typescript_helloworld`
