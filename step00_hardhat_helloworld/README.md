@@ -2,7 +2,7 @@
 
 ## Reading Material
 
-- [Etherem Developmentdocumentation](https://ethereum.org/en/developers/docs/)
+- [Etherem Development documentation](https://ethereum.org/en/developers/docs/)
 - [Hardhat documentation](https://hardhat.org/getting-started/)
 
 ## Steps to code
