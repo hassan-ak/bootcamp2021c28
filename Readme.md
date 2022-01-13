@@ -11,8 +11,6 @@
 - Hardhat
   - It is a framework or development environment which helps to create solidity, etherium based applications, deploy and run those applications.
 
-### Reading Material
-
 ### Sections
 
 - [Hardhat helloworld](./step00_hardhat_helloworld)
