@@ -6,7 +6,7 @@
 - [TypeScript Support](https://hardhat.org/guides/typescript.html)
 - [Writing tests and scripts in TypeScript](https://hardhat.org/guides/typescript.html#writing-tests-and-scripts-in-typescript)
 
-## Steps to code
+## Steps to code (Method 02)
 
 1. Create new directory using `mkdir step01_hardhat_typescript_helloworld_manual`
 2. Navigate to the newly created directory using `cd step01_hardhat_typescript_helloworld_manual`
