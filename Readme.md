@@ -1,6 +1,15 @@
-# bootcamp2021c28 - Introduction to Decentralized Computing - Ethereum, Smart Contracts, DeFi, NFT, and DAO
+# bootcamp2021c28 - Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, NFT, and DAO - Blockchain, Ethereum Smart Contract, and Hardhat Intro - Introduction
 
-## Blockchain, Ethereum Smart Contract, and Hardhat Intro
+## Introduction
+
+- Blockchain
+- Etherium
+- Hardhat
+- Hardhat Projects
+  - js
+  - ts
+    - from console
+    - manually
 
 ### Class Notes
 
@@ -17,7 +26,7 @@
 - [Hardhat typescript helloworld](./step01_hardhat_typescript_helloworld)
 - [Hardhat typescript helloworld manual](./step01_hardhat_typescript_helloworld_manual)
 
-### Class 28 Videos
+### Class 28 Videos: Introduction
 
 - [English YouTube](https://www.youtube.com/watch?v=24Nl4fVGH6g&ab_channel=CertifiedUnicornDeveloper)
 - [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/611810023268930)
